@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Declares:LlenarFuente
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:LlenarFuente
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LlenarFuente
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LlenarFuente
+  inspection: Uses:Poner
