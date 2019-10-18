@@ -1,0 +1,1 @@
+Para definir `Prender luz`, tocá en **Procedimientos** y luego en **Nuevo procedimiento**. Podés cambiarle el nombre tocando sobre **Hacer algo**.
