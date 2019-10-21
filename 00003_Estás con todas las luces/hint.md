@@ -1,1 +1,1 @@
-Para ir rápido hasta un un borde del tablero podés usar el comando `Ir al borde`.
+Para ir rápido hasta un borde del tablero podés usar el comando `Ir al borde`.
