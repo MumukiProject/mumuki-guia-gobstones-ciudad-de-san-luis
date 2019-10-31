@@ -9,6 +9,3 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: LlenarFuente
   inspection: UsesRepeat
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: LlenarFuente
-  inspection: Uses:Poner

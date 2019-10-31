@@ -4,8 +4,5 @@ expectations:
   binding: program
   inspection: Uses:PrenderLuzDeLaVereda
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
-  inspection: Uses:Mover
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: Intransitive:program
   inspection: Not:Uses:PrenderLuz
