@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis/master/assets/attires/config_1571408451746.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis/master/assets/attires/config_1573072974400.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-ciudad-de-san-luis/master/assets/toolbox_1571689406474.xml"></gs-toolbox>
 
