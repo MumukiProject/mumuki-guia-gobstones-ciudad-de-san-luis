@@ -3,7 +3,7 @@ name: Ciudad de San Luis
 locale: es
 type: practice
 beta: false
-teacher_info: Contenido de prueba
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
